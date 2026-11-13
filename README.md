@@ -62,7 +62,7 @@ The full DDL is in [`Sql/schema.sql`](Sql/schema.sql), and the sample data is in
 **Prerequisite:** [.NET 11 SDK](https://dotnet.microsoft.com/download)
 
 ```bash
-git clone https://github.com/<your-username>/GolfStoreManager.git
+git clone https://github.com/MohaleLepheane/GolfStoreManager.git
 cd GolfStoreManager
 dotnet run
 ```

@@ -1,6 +1,6 @@
 # Golf Store Manager
 
-A console application for managing a golf shop's inventory, customers, and orders, built with **C# / .NET 10** and **SQLite**.
+A console application for managing a golf shop's inventory, customers, and orders, built with **C# / .NET 11** and **SQLite**.
 
 All create, read, update, and delete (CRUD) operations use hand-written, parameterized SQL through ADO.NET (`Microsoft.Data.Sqlite`). The app doesn't use an ORM.
 
@@ -59,7 +59,7 @@ The full DDL is in [`Sql/schema.sql`](Sql/schema.sql), and the sample data is in
 
 ## Getting started
 
-**Prerequisite:** [.NET 10 SDK](https://dotnet.microsoft.com/download)
+**Prerequisite:** [.NET 11 SDK](https://dotnet.microsoft.com/download)
 
 ```bash
 git clone https://github.com/<your-username>/GolfStoreManager.git
